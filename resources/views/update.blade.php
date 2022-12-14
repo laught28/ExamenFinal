@@ -27,7 +27,6 @@
         @endforeach
         @endif
 
-        <div class="text-center">Correciones a mis recuerdos<i class="bi bi-wechat"></i></div>
 
         <div class="card">
             <div class="container">
